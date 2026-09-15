@@ -14,7 +14,7 @@ I'm a Software Developer interested in building web applications and backend sys
 
 ## 🛠️ My Skills
 
-![My Skills](https://skillicons.dev/icons?i=php,laravel,golang,vuejs,ai,python,jquery,nodejs,js,react,vite,html,css,tailwind,bootstrap,mysql,postgres,sqlite,redis,firebase,supabase,docker,nginx,git,github,gitlab,bitbucket,vercel,linux,vscode,postman,figma,discord&perline=8)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,golang,vue,ai,python,jquery,nodejs,js,react,npm,vite,html,css,tailwind,bootstrap,mysql,postgres,sqlite,redis,firebase,supabase,docker,nginx,git,github,gitlab,bitbucket,vercel,ubuntu,vscode,postman,figma,discord&perline=8)
 
 ## 📫 Connect With Me
 
