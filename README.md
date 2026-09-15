@@ -6,7 +6,7 @@ I'm a Software Developer interested in building web applications and backend sys
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer working with PHP, Laravel, Yii2, Golang, CI3, VueJS, ReactJS, and MySQL
+- 💻 Full-Stack Developer working with PHP, Laravel, Yii2, Golang, CI3, VueJS, MySQL, PostgreSQL and SQLite
 - 🛠️ Developing, maintaining, and improving web applications
 - 🐛 Bug fixing, troubleshooting, and performance optimization
 - ✨ Implementing new features and improving user experience
