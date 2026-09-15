@@ -2,13 +2,15 @@
 
 I'm a Software Developer interested in building web applications and backend systems.
 
-<img src="dev.png" alt="Developer" width="300">
+<img src="dev.png" alt="Developer" width="450">
 
 ## 🚀 About Me
 
-- 💻 Working with PHP, Laravel, YII2, Golang, CI3, VueJS, ReactJS and MySQL
-- 🌱 Learning and improving software development skills
-- 🔧 Building web applications and internal systems
+- 💻 Working with PHP, Laravel, Yii2, Golang, CI3, VueJS, MySQL, PostgreSQL and SQLite
+- 🛠️ Developing web applications and internal systems
+- 🐛 Fixing bugs, troubleshooting, and improving application performance
+- ✨ Building and implementing new features
+- 🌱 Continuously learning and improving software development skills
 
 ## 🛠️ My Skills
 
