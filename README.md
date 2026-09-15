@@ -2,7 +2,7 @@
 
 I'm a Software Developer interested in building web applications and backend systems.
 
-![alt text](dev.png)
+<img src="dev.png" alt="Developer" width="300">
 
 ## 🚀 About Me
 
